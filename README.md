@@ -10,7 +10,7 @@
 
 xk6-sql is a [Grafana k6 extension](https://grafana.com/docs/k6/latest/extensions/) that enables the use of SQL databases in [k6](https://grafana.com/docs/k6/latest/) tests.
 
-## Usage
+## Usage k6/x/sql/driver/ramsql
 
 To use the xk6-sql API, the `k6/x/sql` module and the driver module corresponding to the database type should be imported. In the example below, `k6/x/sql/driver/ramsql` is the RamSQL database driver module.
 
